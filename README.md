@@ -53,7 +53,8 @@ cd FlappyBird
 ![Game Over](screenshots/gameover.png)
 
 ### Demo Video
-
+🎥 **Watch the demo:**
+[Click here to view](flappybird_demo.mp4)
 
 ## Future Enhancements
 🚧 **Planned Updates:**
